@@ -1,4 +1,4 @@
-# GITSUVAJITK-CSS-Animations
+# GITSUVAJITK-[CSS-Animations](https://gitsuvajitk-css-animaitons.netlify.app/)
 Basic CSS animations - Source Code - Simple - Easy - Fun
 
-https://gitsuvajitk-css-animaitons.netlify.app/
+
